@@ -5,7 +5,7 @@ public class PersonMain {
         Person person1 = new Person();
         Person person2 = new Person("Jack", 35);
 
-        System.out.println("------------ Task 1 --------------");
+        System.out.println("------------ Task 1 ---------------");
 
         person1.move("Bob ходит");
         person2.talk();

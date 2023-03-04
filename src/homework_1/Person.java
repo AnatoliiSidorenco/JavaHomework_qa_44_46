@@ -17,6 +17,6 @@ public class Person {
    }
 
    void talk (){
-      System.out.println(fullName + " " + "говорит");
+      System.out.println(fullName + " " + "говорит m");
    }
 }
